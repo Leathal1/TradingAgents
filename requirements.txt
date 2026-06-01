@@ -11,7 +11,7 @@ setuptools
 backtrader
 parsel
 requests
-tqdm
+tqdm>=4.67.1
 pytz
 redis
 chainlit

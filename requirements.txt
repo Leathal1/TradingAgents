@@ -14,7 +14,7 @@ requests
 tqdm
 pytz
 redis
-chainlit
+chainlit>=2.9.4
 rich
 typer
 questionary

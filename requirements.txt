@@ -7,7 +7,7 @@ yfinance
 stockstats
 langgraph
 rank-bm25
-setuptools
+setuptools>=65.5.1
 backtrader
 parsel
 requests

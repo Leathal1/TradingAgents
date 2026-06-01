@@ -3523,6 +3523,7 @@ dependencies = [
     { name = "tqdm" },
     { name = "typer" },
     { name = "typing-extensions" },
+    { name = "urllib3" },
     { name = "yfinance" },
 ]
 
@@ -3549,6 +3550,7 @@ requires-dist = [
     { name = "tqdm", specifier = ">=4.67.1" },
     { name = "typer", specifier = ">=0.21.0" },
     { name = "typing-extensions", specifier = ">=4.14.0" },
+    { name = "urllib3", specifier = ">=2.4.0" },
     { name = "yfinance", specifier = ">=0.2.63" },
 ]
 
